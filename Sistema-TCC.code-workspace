@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/TCC/config"
+		},
+		{
+			"path": "../../../Desktop/TCC/controllers"
+		},
+		{
+			"path": "../../../Desktop/TCC/middleware"
+		},
+		{
+			"path": "../../../Desktop/TCC/models"
+		},
+		{
+			"path": "../../../Desktop/TCC/node_modules"
+		},
+		{
+			"path": "../../../Desktop/TCC/public"
+		},
+		{
+			"path": "../../../Desktop/TCC/routes"
+		},
+		{
+			"path": "../../../Desktop/TCC/views"
+		}
+	],
+	"settings": {}
+}
